@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='temperatures',
-    version="0.0.1",
+    version="0.1.0",
     description='A program that shows system temperatures in a concise string.',
     long_description=open('README.rst').read(),
     url='https://github.com/luismsgomes/temperatures',
